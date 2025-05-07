@@ -1,2 +1,3 @@
 # Ilum-CNPEM
-Atividades no git em relação com a Ilum e ao CNPEM
+
+Repositório sobre atividades e projetos realizados na Ilum e no CNPEM
